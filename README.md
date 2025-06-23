@@ -17,17 +17,12 @@ An intuitive and customizable autoclicker app built in Python, designed for user
 - Tkinter: Provides a lightweight and efficient GUI.
 
 ## How to Use
-
-- Clone this repository:
-
+Clone this repository:
 git clone https://github.com/yourusername/autoclicker-app.git
-
 cd autoclicker-app
 
-- Install dependencies:
-
+Install dependencies:
 pip install -r requirements.txt
 
-- Run the app:
-
+Run the app:
 python autoclicker.py
