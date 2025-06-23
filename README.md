@@ -19,11 +19,15 @@ An intuitive and customizable autoclicker app built in Python, designed for user
 ## How to Use
 
 - Clone this repository:
+
 git clone https://github.com/yourusername/autoclicker-app.git
+
 cd autoclicker-app
 
 - Install dependencies:
+
 pip install -r requirements.txt
 
 - Run the app:
+
 python autoclicker.py
